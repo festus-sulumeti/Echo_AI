@@ -26,11 +26,6 @@ export default function Home() {
         <div className="flex lg:flex-1 items-center justify-center">
           <a href="#" className="m-1.5">
             <span className="sr-only">Echo Ai Application</span>
-            <img
-              className="h-8 w-auto"
-              src="/logo.png"
-              alt="Echo Ai Application Logo"
-            />
           </a>
           <h1 className="text-2xl font-bold text-gray-900">Echo Ai Application</h1>
         </div>
